@@ -1,0 +1,13 @@
+img{
+  width: 512px;
+  height: 512px;
+  display:block;
+}
+
+button{
+  background: url("pdf_button.png") no-repeat;
+  border: none;
+  display: inline-block;
+  height:100px;
+  width:200px;
+}
